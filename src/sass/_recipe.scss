@@ -97,6 +97,7 @@
     display: flex;
     margin-left: 1.6rem;
     transform: translateY(-1px);
+    flex: 0 0 auto;
   }
 
   &__user-generated {
@@ -107,6 +108,7 @@
     justify-content: center;
     height: 4rem;
     width: 4rem;
+    flex: 0 0 4rem;
     border-radius: 10rem;
 
     margin-left: auto;
@@ -117,6 +119,10 @@
       width: 2.25rem;
       fill: $color-primary;
     }
+  }
+
+  &__details > .btn--bookmark {
+    flex: 0 0 4.5rem;
   }
 
   ///////////
