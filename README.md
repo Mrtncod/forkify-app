@@ -2,6 +2,10 @@
 
 Forkify is a vanilla JavaScript recipe discovery app. Search a large recipe collection, open a recipe to see its ingredients and directions, adjust ingredient quantities by serving size, and save favorites as bookmarks. You can also submit your own recipes through the app.
 
+**[Try the live demo](https://forkify-app-martin.netlify.app/)**
+
+![Forkify recipe search and detail view](forkify.webp)
+
 ## Features
 
 - Search recipes by name or ingredient using the Forkify API.
